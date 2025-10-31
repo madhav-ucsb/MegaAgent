@@ -1,0 +1,1 @@
+- Geocoded and updated site addresses and coordinates for Incheon Airport AI Innovation Hub Hyperscale Data Center (37.4713, 126.4512) and Incheon Bukhang (North Port) Hyperscale Data Center (37.5170, 126.6242) using authoritative address and mapping sources. - All changes written to southkorea_projects.txt with sources and notes on precision.

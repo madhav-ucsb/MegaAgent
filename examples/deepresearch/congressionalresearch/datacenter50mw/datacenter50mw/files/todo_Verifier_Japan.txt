@@ -1,0 +1,1 @@
+1. Communicate to APAC_Admin that QA re-review for all current entries in japan_projects.txt is complete, with all remaining and clarified issues flagged in qa_flags.txt. 2. Stand by for any new entries or corrections from SourceCollector_Japan, Geocoder_Japan, or Deduplicator_Japan. 3. If no further action is required, terminate.

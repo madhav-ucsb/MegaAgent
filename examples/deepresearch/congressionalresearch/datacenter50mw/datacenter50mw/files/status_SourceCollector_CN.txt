@@ -1,0 +1,1 @@
+Added a new batch of 50MW+ AI/compute datacenter projects in China to china_projects_raw.txt, including major national and regional projects, with operator and rack data. Coverage includes Beijing, Shanghai, Jiangsu, Guangdong, Hebei, Inner Mongolia, Anhui, Guizhou, Gansu, and more. Continuing to expand for completeness.

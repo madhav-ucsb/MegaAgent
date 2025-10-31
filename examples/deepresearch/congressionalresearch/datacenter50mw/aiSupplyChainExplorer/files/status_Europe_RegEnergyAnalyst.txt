@@ -1,0 +1,1 @@
+Completed and saved risk matrix lines for ABBN, PRY, ORA, SU, ERIC, LR, ATO with full export control and energy risk assessment, all with sources, to europe_risk_matrix.txt. Notified Europe_CompanyAnalyst that the file is ready for QA.

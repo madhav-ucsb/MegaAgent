@@ -1,0 +1,10 @@
+# Canonical Project | Alias | Reason | Sources
+AirTrunk SGP2 | AirTrunk Singapore SGP2 | Alternate ordering, same project (operator, city, specs match) | https://airtrunk.com/location/singapore/; https://baxtel.com/data-center/airtrunk-sgp2
+AirTrunk SGP2 | AirTrunk SGP2 Data Center | Minor naming variation, same project (operator, city, specs match) | https://baxtel.com/data-center/airtrunk-sgp2
+AirTrunk SGP2 | AirTrunk SGP2 (Keppel Data Centre Campus) | Campus/ownership reference, same project (operator, city, specs match) | https://baxtel.com/data-center/airtrunk-sgp2
+No near-duplicates or aliasing detected between AirTrunk SGP2 and AirTrunk SGP1; both are distinct facilities in Singapore (SGP1: 22 Loyang Dr, SGP2: separate, newer campus, 70MW+). | https://airtrunk.com/location/singapore/; https://baxtel.com/data-center/airtrunk-sgp2
+No near-duplicates or aliasing detected among India 50MW+ AI datacenter projects (Digital Realty-Brookfield-Reliance MAA10 Chennai Campus) as of this review. Only one project entry present; no deduplication required.
+Equinix SG6 | Equinix Singapore SG6 | Minor naming variation, same project (operator, city, specs match) | https://w.media/equinix-announces-its-highly-sustainable-sg6-data-center/; https://www.datacentermap.com/singapore/singapore/equinix-sg6/
+Equinix SG6 | Equinix SG6 Data Center | Minor naming variation, same project (operator, city, specs match) | https://www.datacentermap.com/singapore/singapore/equinix-sg6/
+Equinix SG6 | Equinix SG6 (Jalan Tukang) | Address reference, same project (operator, city, specs match) | https://w.media/equinix-announces-its-highly-sustainable-sg6-data-center/
+# No evidence Equinix SG2, SG5, and SG6 are marketed or operated as a single campus; all are distinct IBX facilities, though described as a cluster in industry sources. No deduplication required. | https://w.media/equinix-announces-its-highly-sustainable-sg6-data-center/; https://www.datacentermap.com/singapore/singapore/equinix-sg6/; https://www.equinix.com/data-centers/asia-pacific-colocation/singapore-colocation/singapore-data-center/sg5

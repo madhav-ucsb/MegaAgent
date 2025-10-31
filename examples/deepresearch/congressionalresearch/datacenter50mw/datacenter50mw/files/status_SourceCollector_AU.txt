@@ -1,0 +1,1 @@
+Resumed comprehensive Perplexity searches for 50MW+ AI datacenter projects in Australia. Added Macquarie Data Centres IC3 Super West and NEXTDC M4 Fishermans Bend to australia_projects_raw.txt with detailed specs and sources. Existing projects (Doma West Sydney, AirTrunk SYD1/MEL1, AWS Australia Expansion, NEXTDC S6 Sydney) already documented.

@@ -1,0 +1,1 @@
+Reviewed southkorea_projects.txt for duplicate/alias entries, including new Incheon projects. Updated dedupe_map.txt with canonical and alias mappings for all major projects. No near-duplicates or aliasing detected; all projects are distinct. Task complete. Notify SouthKorea_Hunter.

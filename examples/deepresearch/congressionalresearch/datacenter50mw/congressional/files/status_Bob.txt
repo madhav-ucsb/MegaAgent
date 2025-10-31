@@ -1,0 +1,1 @@
+Aggregated all results from house_r_z.txt, house_i_q.txt, senators_a_l.txt, senators_m_z.txt, and house_a_h.txt into ans.txt in the required format. ans.txt now contains only congresspeople born outside their represented state. Project is finalized.

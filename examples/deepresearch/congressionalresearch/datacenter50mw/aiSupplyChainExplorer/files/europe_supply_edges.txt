@@ -1,0 +1,52 @@
+ams OSRAM | supplier | Nichia | major | https://ams-osram.cn/documents/4390887/30856145/Investor%20presentation%20ams%20OSRAM%20Q3%202024.pdf
+ams OSRAM | supplier | Seoul Semiconductor | major | https://ams-osram.cn/documents/4390887/30856145/Investor%20presentation%20ams%20OSRAM%20Q3%202024.pdf
+ams OSRAM | supplier | Samsung LED | major | https://ams-osram.cn/documents/4390887/30856145/Investor%20presentation%20ams%20OSRAM%20Q3%202024.pdf
+ams OSRAM | supplier | MLS | major | https://ams-osram.cn/documents/4390887/30856145/Investor%20presentation%20ams%20OSRAM%20Q3%202024.pdf
+ams OSRAM | supplier | Tungsten wire/chemical suppliers (Schwabmünchen site) | major | https://www.industrie40award.com/the-winners/ams-osram-schwabmuenchen/
+ams OSRAM | customer | Apple | major | https://www.microled-info.com/ams-osram
+ams OSRAM | customer | NIO | major | https://www.shine.lighting/osram/updates
+ams OSRAM | customer | Marelli | major | https://www.shine.lighting/osram/updates
+ams OSRAM | customer | Automotive OEMs (general) | major | https://ams-osram.com/documents/4390887/30856145/Investor%20presentation%20ams%20OSRAM%20Q3%202024.pdf
+ams OSRAM | customer | Industrial/Medical OEMs (general) | major | https://ams-osram.com/documents/4390887/30856145/Investor%20presentation%20ams%20OSRAM%20Q3%202024.pdf
+ams OSRAM | customer | Consumer electronics OEMs (general) | major | https://ams-osram.com/documents/4390887/30856145/Investor%20presentation%20ams%20OSRAM%20Q3%202024.pdf
+Melexis | supplier | Carsem (Malaysia) | major | https://www.volza.com/company-profile/melexis-france-sas-1071334/
+Melexis | supplier | Unisem | major | https://www.volza.com/company-profile/melexis-technologies-nv-279826/
+Melexis | supplier | Amkor Technology | major | https://www.volza.com/company-profile/melexis-france-sas-1071334/
+Melexis | supplier | SE Melexis Ukraine | major | https://www.volza.com/company-profile/melexis-technologies-nv-279826/
+Melexis | customer | NIO | major | https://prd10-melexis.blastic.be/nl/news/stories/2024/~/link.aspx?_id=A42AC4B4B39E47469F9283B2D0D7C6CD&_z=z
+Melexis | customer | Samsung Electronics | major | https://prd10-melexis.blastic.be/nl/news/stories/2024/~/link.aspx?_id=A42AC4B4B39E47469F9283B2D0D7C6CD&_z=z
+Melexis | customer | Hella India Automotive | major | https://www.volza.com/company-profile/melexis-technologies-nv-279826/
+Melexis | customer | Avx Electronics Sensing And Control | major | https://www.volza.com/company-profile/melexis-technologies-nv-279826/
+Melexis | customer | Mando Hella Electronics Automotive | major | https://www.volza.com/company-profile/melexis-technologies-nv-279826/
+Melexis | customer | Automotive OEMs (general) | major | https://media.melexis.com/-/media/files/documents/investor-relations/reports/annual-reports/en/2024-annual-report-melexis-en.pdf?ts=20250410t1341344477
+Prysmian Group | supplier | Copper mining & smelting companies (global) | critical | https://www.prysmian.com/sites/www.prysmian.com/files/2024-07/2024-PrysmianGroup-Purchasing-supplyChainStrategy-CLEAN.pdf
+Prysmian Group | supplier | Aluminum mining & smelting companies (global) | critical | https://www.prysmian.com/sites/www.prysmian.com/files/2024-07/2024-PrysmianGroup-Purchasing-supplyChainStrategy-CLEAN.pdf
+Prysmian Group | customer | National Grid (UK) | major | https://www.marketsandmarkets.com/ResearchInsight/americas-cables-market.asp
+Prysmian Group | customer | Utilities (global) | major | https://scw-mag.com/news/powering-the-world-prysmian-groups-global-impact-and-procurement-strategy/
+Prysmian Group | customer | Telecom operators (global) | major | https://scw-mag.com/news/powering-the-world-prysmian-groups-global-impact-and-procurement-strategy/
+Prysmian Group | customer | Construction & infrastructure firms (global) | major | https://scw-mag.com/news/powering-the-world-prysmian-groups-global-impact-and-procurement-strategy/
+Orange S.A. | supplier | Ericsson | major | https://data.ark.ai/analysis/suppliers/orange-sa-supplier-profile-overview/
+Orange S.A. | supplier | Nokia | major | https://data.ark.ai/analysis/suppliers/orange-sa-supplier-profile-overview/
+Orange S.A. | supplier | Cisco Systems | major | https://data.ark.ai/analysis/suppliers/orange-sa-supplier-profile-overview/
+Orange S.A. | supplier | Huawei | major | https://data.ark.ai/analysis/suppliers/orange-sa-supplier-profile-overview/
+Orange S.A. | supplier | Suntech SA | major | https://data.ark.ai/analysis/suppliers/orange-sa-supplier-profile-overview/
+Orange S.A. | customer | French government/public sector | major | https://masorange.es/wp-content/uploads/2025/02/250213_FY24_Results-Presentation-MasOrange.pdf
+Orange S.A. | customer | Endesa | major | https://masorange.es/wp-content/uploads/2025/02/250213_FY24_Results-Presentation-MasOrange.pdf
+Orange S.A. | customer | Ilunion Group | major | https://masorange.es/wp-content/uploads/2025/02/250213_FY24_Results-Presentation-MasOrange.pdf
+Orange S.A. | customer | Private enterprise (Europe) | major | https://masorange.es/wp-content/uploads/2025/02/250213_FY24_Results-Presentation-MasOrange.pdf
+Orange S.A. | customer | Consumer broadband/mobile (Europe) | major | https://en.wikipedia.org/wiki/Orange_S.A.
+Siemens AG | supplier | Electronics component manufacturers (global) | major | https://www.volza.com/p/siemens/manufacturers/
+Siemens AG | supplier | Industrial automation suppliers (global) | major | https://www.volza.com/p/siemens/manufacturers/
+Siemens AG | supplier | Software vendors (global) | major | https://www.volza.com/p/siemens/manufacturers/
+Siemens AG | customer | Atos SE | major | https://en.wikipedia.org/wiki/Siemens
+Siemens AG | customer | Siemens Healthineers | major | https://data.ark.ai/analysis/suppliers/siemens-aktiengesellschaft-supplier-profile-overview/
+Siemens AG | customer | Siemens Medical Solutions USA | major | https://data.ark.ai/analysis/suppliers/siemens-aktiengesellschaft-supplier-profile-overview/
+Siemens AG | customer | Siemens Government Technologies | major | https://data.ark.ai/analysis/suppliers/siemens-aktiengesellschaft-supplier-profile-overview/
+Siemens AG | customer | Utilities, industrial, and infrastructure clients (global) | major | https://assets.new.siemens.com/siemens/assets/api/uuid:f3dbe372-808e-40de-b980-0926f16c343d/Siemens-Business-Fact-Sheets.pdf
+ABB Ltd. | supplier | Electronics component manufacturers (global) | major | https://www.volza.com/p/abb/
+ABB Ltd. | supplier | Industrial automation suppliers (global) | major | https://www.volza.com/p/abb/
+ABB Ltd. | supplier | Software vendors (global) | major | https://www.volza.com/p/abb/
+ABB Ltd. | customer | Utilities (global) | major | https://new.abb.com/medium-voltage/by-customer-segment
+ABB Ltd. | customer | Industrial clients (global) | major | https://new.abb.com/medium-voltage/by-customer-segment
+ABB Ltd. | customer | Commercial clients (global) | major | https://new.abb.com/medium-voltage/by-customer-segment
+ABB Ltd. | customer | Government and infrastructure (global) | major | https://data.ark.ai/analysis/suppliers/abb-ltd-supplier-profile-overview/

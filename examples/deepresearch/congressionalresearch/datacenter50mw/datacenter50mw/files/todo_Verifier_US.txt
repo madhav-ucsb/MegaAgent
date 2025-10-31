@@ -1,0 +1,1 @@
+Notify SourceCollector_US and US_ProjectHunter that QA and validation for us_projects.txt is complete. All issues have been flagged in qa_flags.txt. Ready for next steps or further review.

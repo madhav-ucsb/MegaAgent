@@ -1,0 +1,34 @@
+Mitsui High-tec | supplier | JFE Steel | strong
+Mitsui High-tec | supplier | POSCO | strong
+Mitsui High-tec | supplier | Hitachi Metals | strong
+Mitsui High-tec | supplier | Sumitomo Electric Industries | strong
+Mitsui High-tec | supplier | TDK Corporation | moderate
+Mitsui High-tec | supplier | copper, silicon, and specialty chemical suppliers | moderate
+Mitsui High-tec | customer | global semiconductor manufacturers | strong
+Mitsui High-tec | customer | global automotive OEMs (EV, hybrid) | strong
+Mitsui High-tec | customer | electronics manufacturers | moderate
+Nokia | supplier | Accelink Technologies Corporation | major
+Nokia | supplier | Nanya Technology Co., Ltd | major
+Nokia | supplier | Accton Technology Corporation | major
+Nokia | supplier | NXP Semiconductors N.V. | major
+Nokia | supplier | Advanced Micro Devices, Inc. | major
+Nokia | supplier | On Semiconductor Corporation | major
+Nokia | supplier | Amphenol Corporation | major
+Nokia | supplier | Qorvo Inc. | major
+Nokia | supplier | Qualcomm Inc. | major
+Nokia | supplier | Quanta Computer Inc. | major
+Nokia | supplier | Realtek Semiconductor Corp. | major
+Nokia | supplier | Renesas Electronics Corporation | major
+Nokia | customer | AT&T | major
+Nokia | customer | Deutsche Telekom | major
+Nokia | customer | Vodafone Group | major
+Nokia | customer | Orange S.A. | major
+Nokia | customer | Telefonica | major
+Nokia | customer | Verizon Communications | major
+Teledyne Technologies Incorporated | customer | Aerospace and defense companies (various) | strong
+Teledyne Technologies Incorporated | customer | Semiconductor companies (various) | strong
+Teledyne Technologies Incorporated | customer | Electronics OEMs (various) | strong
+Teledyne Technologies Incorporated | customer | U.S. Department of Defense | strong
+Teledyne Technologies Incorporated | customer | NASA | strong
+Teledyne Technologies Incorporated | supplier | Electronic components manufacturers (various) | moderate
+Teledyne Technologies Incorporated | supplier | Contract manufacturers (various) | moderate

@@ -1,0 +1,1 @@
+Refined and verified latitude/longitude for Related Digital/Ascent Cambridge Hyperscale using site address (17 Vondrau Dr, N3E 1B8 Cambridge) and cited sources. Updated canada_projects.txt accordingly. All projects in canada_projects.txt now have refined/verified latitude and longitude, with approximate locations clearly marked where necessary and all sources cited.

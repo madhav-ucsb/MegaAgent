@@ -1,0 +1,1 @@
+Added OData DC BG03 (120MW, Tenjo, Colombia) and DC BG02 (24MW, Mosquera, Colombia) to latam_projects.txt. No 50MW+ AI datacenter projects found in Peru. Reported progress to LatAm_ProjectHunter. TODO list cleared.

@@ -1,0 +1,1 @@
+- Performed QA on all projects in mexico_projects.txt for completeness, accuracy, and source quality. - Flagged all issues in qa_flags.txt, including missing builder/EPC, vague capacity, missing vendors, and approximate locations. - Successfully wrote the updated qa_flags.txt with all relevant Mexico project QA flags and recommendations.

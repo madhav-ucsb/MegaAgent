@@ -1,0 +1,5 @@
+1. Review all entries in mexico_projects.txt for potential duplicates or aliases.
+2. Identify canonical project names and any aliases or near-duplicates.
+3. Map aliases to canonical names in dedupe_map.txt, with reasons and sources.
+4. Update dedupe_map.txt if any deduplication is needed.
+5. Mark task as done if no deduplication is required.

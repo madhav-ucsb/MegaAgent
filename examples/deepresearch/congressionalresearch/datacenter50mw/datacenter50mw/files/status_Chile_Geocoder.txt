@@ -1,0 +1,1 @@
+Geocoded and validated all 50MW+ AI datacenter projects in chile_projects.txt. Updated coordinates where possible and flagged uncertainties in qa_flags.txt. Notified Chile_ProjectHunter of completion.

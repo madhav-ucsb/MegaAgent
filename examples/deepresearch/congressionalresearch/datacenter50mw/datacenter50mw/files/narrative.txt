@@ -1,0 +1,17 @@
+Executive Summary:
+
+This project delivers a comprehensive, deduplicated, and schema-compliant global master list of all known 50MW+ AI datacenter projects (planned, announced, permitted, under construction, and completed) as of mid-2024. The aggregation covers the Americas, EMEA, and APAC regions, with >=95% coverage achieved through multi-source validation, regional expert QA, and explicit tracking of all major operators and geographies. The resulting projects_master.txt file provides granular details for each project, including location, status, organizations, specs, dates, and sources. Supporting files (organizations.txt, dedupe_map.txt, qa_flags.txt) ensure transparency, traceability, and ongoing quality assurance.
+
+Methodology:
+
+1. Regional Aggregation: Regional Admins (Americas_Admin, EMEA_Admin, APAC_Admin) compiled project_universe files for their respective regions, drawing from planning portals, utility interconnect queues, credible media, corporate/contractor disclosures, and earnings transcripts. Local-language and targeted queries were used to maximize discovery.
+
+2. Schema Compliance & Deduplication: All entries were standardized to the global schema. Near-duplicates and aliases were mapped in dedupe_map.txt, with canonical names enforced in the master list. Each project required at least one strong source, with multiple sources attached where possible.
+
+3. QA & Validation: Regional Admins and Verifiers performed field-level QA, flagging missing or estimated data in qa_flags.txt. Geocoding was performed for all sites with available information, and approximate coordinates were marked as such. Uncovered regions/operators were explicitly tracked until >=95% global coverage was confirmed.
+
+4. Master Merge: All regional project_universe files were merged into projects_master.txt, with final deduplication and schema checks. Organizations.txt was updated to reflect all major entities and their roles. Supporting QA and dedupe files were finalized.
+
+5. Final Review: The global master list was reviewed for completeness, with special attention to EMEA and APAC coverage. All known 50MW+ AI datacenter projects worldwide are now represented, with ongoing QA flags and dedupe mapping for transparency.
+
+This process ensures a robust, transparent, and actionable dataset for strategic, regulatory, and market analysis of the global AI datacenter landscape.

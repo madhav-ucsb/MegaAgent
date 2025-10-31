@@ -1,0 +1,1 @@
+Completed QA and validation for all 50MW+ US AI datacenter projects in us_projects.txt. All data completeness, accuracy, and consistency issues have been flagged in qa_flags.txt per schema.

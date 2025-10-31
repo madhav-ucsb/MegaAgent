@@ -1,0 +1,1 @@
+Recruited QuebecSourceCollector, GlobalOperatorSourceCollector, Geocoder, Deduplicator, and Verifier. Issued instructions to each. Awaiting their outputs before final review and reporting.

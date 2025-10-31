@@ -1,0 +1,1 @@
+Reviewed and flagged AirTrunk SGP2 for missing builder, vendors, IT load, racks, and sqft; coordinates are approximate. Communicated status to SourceCollector_SG. All current Singapore project QA issues are documented in qa_flags.txt.

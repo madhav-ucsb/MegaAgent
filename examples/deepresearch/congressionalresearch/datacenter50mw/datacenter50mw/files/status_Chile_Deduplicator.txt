@@ -1,0 +1,1 @@
+1. Read chile_projects.txt and dedupe_map.txt. 2. Identified duplicate/alias project entries in chile_projects.txt. 3. Updated dedupe_map.txt with canonical/alias mappings for Chile projects. 4. Flagged ambiguous/uncertain cases (Cirion SAN2) in qa_flags.txt. 5. All changes written to files. Ready to notify Chile_ProjectHunter.

@@ -1,0 +1,1 @@
+Collection for japan_projects.txt is complete and up to date, including all major 50MW+ AI datacenter projects and operators (Oracle, AWS, SoftBank, etc.) with geocoding and deduplication confirmed. Notified Verifier_Japan that the file is ready for QA and validation.

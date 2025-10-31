@@ -1,0 +1,1 @@
+No further action required. All APAC updates (including Singapore) are already reflected in projects_master.txt, dedupe_map.txt, and qa_flags.txt. Confirmed with APAC_Admin that project_universe_apac.txt is up to date and QA'd. No further merge or update needed. Notify Bob of confirmation and close out.

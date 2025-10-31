@@ -1,0 +1,22 @@
+McConnell, Mitch | Senate | Kentucky | N/A | Alabama
+Menendez, Robert | Senate | New Jersey | N/A | New York
+Murphy, Christopher | Senate | Connecticut | N/A | Massachusetts
+Paul, Rand | Senate | Kentucky | N/A | Pennsylvania
+Risch, James E. | Senate | Idaho | N/A | Wisconsin
+Romney, Mitt | Senate | Utah | N/A | Michigan
+Rosen, Jacky | Senate | Nevada | N/A | Illinois
+Sanders, Bernie | Senate | Vermont | N/A | New York
+Schatz, Brian | Senate | Hawaii | N/A | Michigan
+Scott, Rick | Senate | Florida | N/A | Illinois
+Shaheen, Jeanne | Senate | New Hampshire | N/A | Missouri
+Smith, Tina | Senate | Minnesota | N/A | New Mexico
+Sullivan, Dan | Senate | Alaska | N/A | Ohio
+Tillis, Thom | Senate | North Carolina | N/A | Florida
+Tuberville, Tommy | Senate | Alabama | N/A | Arkansas
+Van Hollen, Chris | Senate | Maryland | N/A | Pakistan
+Warner, Mark R. | Senate | Virginia | N/A | Indiana
+Warren, Elizabeth | Senate | Massachusetts | N/A | Oklahoma
+Welch, Peter | Senate | Vermont | N/A | Massachusetts
+Whitehouse, Sheldon | Senate | Rhode Island | N/A | New York
+Wyden, Ron | Senate | Oregon | N/A | Kansas
+Young, Todd | Senate | Indiana | N/A | Pennsylvania

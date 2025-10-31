@@ -1,0 +1,1 @@
+Geocoding for all current entries in japan_projects.txt is complete. All projects have latitude/longitude fields populated, with 'approximate' status where only city/region-level information is available. Notified Verifier_Japan of completion. Standing by for new entries or further instructions.

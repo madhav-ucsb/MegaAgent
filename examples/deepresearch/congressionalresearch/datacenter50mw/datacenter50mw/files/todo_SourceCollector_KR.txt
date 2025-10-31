@@ -1,0 +1,1 @@
+1. Collaborate with Geocoder_KR for precise site geocoding where addresses are missing for new Incheon projects. 2. Deduplicate and QA with Deduplicator_KR and Verifier_KR for new Incheon entries. 3. Notify SouthKorea_Hunter of expanded coverage and any remaining gaps.

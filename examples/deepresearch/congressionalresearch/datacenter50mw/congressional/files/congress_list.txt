@@ -1,0 +1,182 @@
+Ilhan Omar | House | MN | 5
+Greg Indian | House | OK | 2
+Darrell Issa | House | CA | 48
+Glenn Ivey | House | MD | 4
+Jonathan Jackson | House | IL | 1
+Jeff Jackson | House | NC | 14
+Ronny Jackson | House | TX | 13
+Sheila Jackson Lee | House | TX | 18
+Sara Jacobs | House | CA | 51
+John James | House | MI | 10
+Pramila Jayapal | House | WA | 7
+Hakeem Jeffries | House | NY | 8
+Bill Johnson | House | OH | 6
+Dusty Johnson | House | SD | AL
+Hank Johnson | House | GA | 4
+Mike Johnson | House | LA | 4
+Wesley Johnson | House | MS | 2
+Jim Jordan | House | OH | 4
+David Joyce | House | OH | 14
+John Joyce | House | PA | 13
+Kaiali'i Kahele | House | HI | 2
+Sydney Kamlager-Dove | House | CA | 37
+Marcy Kaptur | House | OH | 9
+Thomas Kean | House | NJ | 7
+Bill Keating | House | MA | 9
+Mike Kelly | House | PA | 16
+Robin Kelly | House | IL | 2
+Ro Khanna | House | CA | 17
+Dan Kildee | House | MI | 8
+Derek Kilmer | House | WA | 6
+Andy Kim | House | NJ | 3
+Young Kim | House | CA | 40
+Ann McLane Kuster | House | NH | 2
+David Kustoff | House | TN | 8
+Darin LaHood | House | IL | 16
+Doug LaMalfa | House | CA | 1
+Doug Lamborn | House | CO | 5
+Greg Landsman | House | OH | 1
+Nick Langworthy | House | NY | 23
+Rick Larsen | House | WA | 2
+John Larson | House | CT | 1
+Bob Latta | House | OH | 5
+Jake LaTurner | House | KS | 2
+Mike Lawler | House | NY | 17
+Barbara Lee | House | CA | 12
+Summer Lee | House | PA | 12
+Susie Lee | House | NV | 3
+Teresa Leger Fernandez | House | NM | 3
+Debbie Lesko | House | AZ | 8
+Julia Letlow | House | LA | 5
+Mike Levin | House | CA | 49
+Ted Lieu | House | CA | 36
+Zoe Lofgren | House | CA | 18
+Barry Loudermilk | House | GA | 11
+Frank Lucas | House | OK | 3
+Blaine Luetkemeyer | House | MO | 3
+Anna Paulina Luna | House | FL | 13
+Morgan Luttrell | House | TX | 8
+Stephen Lynch | House | MA | 8
+Nancy Mace | House | SC | 1
+Seth Magaziner | House | RI | 2
+Nicole Malliotakis | House | NY | 11
+Celeste Maloy | House | UT | 2
+Tracey Mann | House | KS | 1
+Kathy Manning | House | NC | 6
+Thomas Massie | House | KY | 4
+Brian Mast | House | FL | 21
+Doris Matsui | House | CA | 7
+Lucy McBath | House | GA | 7
+Michael McCaul | House | TX | 10
+Lisa McClain | House | MI | 9
+Jennifer McClellan | House | VA | 4
+Tom McClintock | House | CA | 5
+Betty McCollum | House | MN | 4
+Rich McCormick | House | GA | 6
+Morgan McGarvey | House | KY | 3
+Jim McGovern | House | MA | 2
+Patrick McHenry | House | NC | 10
+Howard McKeon | House | CA | 25
+David McKinley | House | WV | 1
+Cathy McMorris Rodgers | House | WA | 5
+Gregory Meeks | House | NY | 5
+Rob Menendez | House | NJ | 8
+Grace Meng | House | NY | 6
+Dan Meuser | House | PA | 9
+Kweisi Mfume | House | MD | 7
+Carol Miller | House | WV | 1
+Mary Miller | House | IL | 15
+Mariannette Miller-Meeks | House | IA | 1
+Cory Mills | House | FL | 7
+Max Miller | House | OH | 7
+Marc Molinaro | House | NY | 19
+John Moolenaar | House | MI | 2
+Alex Mooney | House | WV | 2
+Barry Moore | House | AL | 2
+Blake Moore | House | UT | 1
+Gwen Moore | House | WI | 4
+Steven Moore | House | GA | 3
+Nathaniel Moran | House | TX | 1
+Joseph Morelle | House | NY | 25
+Jared Moskowitz | House | FL | 23
+Seth Moulton | House | MA | 6
+Frank Mrvan | House | IN | 1
+Markwayne Mullin | House | OK | 2
+Gregory Murphy | House | NC | 3
+Jerry Nadler | House | NY | 12
+Grace Napolitano | House | CA | 31
+Richard Neal | House | MA | 1
+Joe Neguse | House | CO | 2
+Troy Nehls | House | TX | 22
+Dan Newhouse | House | WA | 4
+Wiley Nickel | House | NC | 13
+Donald Norcross | House | NJ | 1
+Ralph Norman | House | SC | 5
+Eleanor Holmes Norton | House | DC | AL
+Zach Nunn | House | IA | 3
+Alexandria Ocasio-Cortez | House | NY | 14
+Andy Ogles | House | TN | 5
+Ilhan Omar | House | MN | 5
+Burgess Owens | House | UT | 4
+Frank Pallone | House | NJ | 6
+Gary Palmer | House | AL | 6
+Jimmy Panetta | House | CA | 19
+Chris Pappas | House | NH | 1
+Bill Pascrell | House | NJ | 9
+Donald Payne | House | NJ | 10
+Nancy Pelosi | House | CA | 11
+Mary Peltola | House | AK | AL
+Greg Pence | House | IN | 6
+Marie Gluesenkamp Perez | House | WA | 3
+Scott Perry | House | PA | 10
+Scott Peters | House | CA | 50
+Brittany Pettersen | House | CO | 7
+August Pfluger | House | TX | 11
+Dean Phillips | House | MN | 3
+Chellie Pingree | House | ME | 1
+Stacey Plaskett | House | VI | AL
+Mark Pocan | House | WI | 2
+Katie Porter | House | CA | 47
+Bill Posey | House | FL | 8
+Ayanna Pressley | House | MA | 7
+Mike Quigley | House | IL | 5
+Mitch McConnell | Senate | KY | 
+Robert Menendez | Senate | NJ | 
+Jeff Merkley | Senate | OR | 
+Jerry Moran | Senate | KS | 
+Lisa Murkowski | Senate | AK | 
+Christopher Murphy | Senate | CT | 
+Patty Murray | Senate | WA | 
+Jon Ossoff | Senate | GA | 
+Alex Padilla | Senate | CA | 
+Rand Paul | Senate | KY | 
+Gary C. Peters | Senate | MI | 
+Pete Ricketts | Senate | NE | 
+James E. Risch | Senate | ID | 
+Mitt Romney | Senate | UT | 
+Jacky Rosen | Senate | NV | 
+Mike Rounds | Senate | SD | 
+Marco Rubio | Senate | FL | 
+Bernie Sanders | Senate | VT | 
+Brian Schatz | Senate | HI | 
+Eric Schmitt | Senate | MO | 
+Rick Scott | Senate | FL | 
+Tim Scott | Senate | SC | 
+Jeanne Shaheen | Senate | NH | 
+Kyrsten Sinema | Senate | AZ | 
+Tina Smith | Senate | MN | 
+Dan Sullivan | Senate | AK | 
+Jon Tester | Senate | MT | 
+John Thune | Senate | SD | 
+Thom Tillis | Senate | NC | 
+Tommy Tuberville | Senate | AL | 
+Chris Van Hollen | Senate | MD | 
+J.D. Vance | Senate | OH | 
+Mark R. Warner | Senate | VA | 
+Raphael G. Warnock | Senate | GA | 
+Elizabeth Warren | Senate | MA | 
+Peter Welch | Senate | VT | 
+Sheldon Whitehouse | Senate | RI | 
+Roger F. Wicker | Senate | MS | 
+Ron Wyden | Senate | OR | 
+Todd Young | Senate | IN | 

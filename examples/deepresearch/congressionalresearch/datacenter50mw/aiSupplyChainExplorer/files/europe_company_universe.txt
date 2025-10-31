@@ -1,0 +1,22 @@
+ASML Holding | ASML | Netherlands | AI chip equipment supplier | https://www.statista.com/statistics/1375401/leading-europe-semiconductor-companies-by-market-cap/, https://www.asml.com
+Arm Holdings | ARM | United Kingdom | AI chip IP designer | https://www.statista.com/statistics/1375401/leading-europe-semiconductor-companies-by-market-cap/
+NXP Semiconductors | NXPI | Netherlands | AI chip supplier | https://www.statista.com/statistics/1375401/leading-europe-semiconductor-companies-by-market-cap/
+Infineon Technologies | IFX | Germany | AI chip & memory supplier | https://www.statista.com/statistics/1375401/leading-europe-semiconductor-companies-by-market-cap/, https://www.mordorintelligence.com/industry-reports/europe-dynamic-random-access-memory-market/companies
+STMicroelectronics | STM | Switzerland/Italy | AI chip supplier | https://www.statista.com/statistics/1375401/leading-europe-semiconductor-companies-by-market-cap/
+ams OSRAM | AMS | Austria | AI sensor & chip supplier | https://www.mordorintelligence.com/industry-reports/europe-semiconductor-device-market/companies
+Melexis | MELE | Belgium | AI sensor & chip supplier | https://www.mordorintelligence.com/industry-reports/europe-semiconductor-device-market/companies
+X-FAB Silicon Foundries | XFAB | Germany | AI chip foundry | https://www.mordorintelligence.com/industry-reports/europe-semiconductor-device-market/companies
+Ericsson | ERIC | Sweden | Networking equipment | https://www.revenue.land/invest-artificial-intelligence-europe
+Nokia | NOKIA | Finland | Networking equipment | https://www.revenue.land/invest-artificial-intelligence-europe
+OVH Groupe | OVH | France | AI server & cloud integrator | https://cryptorank.io/news/feed/b17a2-europe-data-center-infrastructure-ai-stocks
+Legrand | LR | France | Data center infrastructure | https://cryptorank.io/news/feed/b17a2-europe-data-center-infrastructure-ai-stocks
+Schneider Electric | SU | France | Data center infrastructure | https://cryptorank.io/news/feed/b17a2-europe-data-center-infrastructure-ai-stocks
+Siemens AG | SIE | Germany | Data center & server integrator | https://www.revenue.land/invest-artificial-intelligence-europe
+ABB Ltd | ABBN | Switzerland | Data center & server integrator | https://www.revenue.land/invest-artificial-intelligence-europe
+Prysmian Group | PRY | Italy | Data center cabling & infrastructure | https://cryptorank.io/news/feed/b17a2-europe-data-center-infrastructure-ai-stocks
+Orange S.A. | ORA | France | Data center & networking integrator | https://cryptorank.io/news/feed/b17a2-europe-data-center-infrastructure-ai-stocks
+Soitec | SOI | France | Semiconductor materials | https://www.statista.com/statistics/1375401/leading-europe-semiconductor-companies-by-market-cap/, https://www.soitec.com/en/investors
+BE Semiconductor Industries | BESI | Netherlands | Semiconductor assembly equipment | https://www.statista.com/statistics/1375401/leading-europe-semiconductor-companies-by-market-cap/, https://www.besi.com/investor-relations
+Elmos Semiconductor | ELG | Germany | Automotive/AI chips | https://www.mordorintelligence.com/industry-reports/europe-semiconductor-device-market/companies, https://www.elmos.com/english/investor-relations/
+Sequans Communications | SQNS | France | IoT/AI connectivity chips | https://www.sequans.com/investors/, https://www.mordorintelligence.com/industry-reports/europe-semiconductor-device-market/companies
+Atos SE | ATO | France | HPC integrator/supercomputing vendor | https://atos.net/en/2024/press-release_2024_11_25/atos-receives-non-binding-offer-from-the-french-state-to-acquire-its-advanced-computing-activities-for-an-enterprise-value-of-e500-million-and-up-to-e625-million-including-earn-outs, https://blogs.nvidia.com/blog/atos-ai-hpc-xh3000/, https://thequantuminsider.com/2024/11/26/france-bids-e625-million-for-atoss-computing-unit-including-quantum-tech/

@@ -1,0 +1,9 @@
+- Recruited Project Hunters for US, Canada, Brazil, Mexico, Chile, and LatAm/Caribbean.
+- Instructed all to begin comprehensive identification and reporting.
+- Conducted initial Perplexity searches for each region to gather project lists and market context.
+- Aggregated Canada, Brazil, Mexico, LatAm/Caribbean project files into project_universe_americas.txt.
+- Aggregated all identified US 50MW+ AI datacenter projects from us_projects.txt into project_universe_americas.txt.
+- Collaborated with OrgPeople_Analyst for organization data and Compiler for aggregation.
+- Completed QA and deduplication process, including review of flagged fields in qa_flags.txt. All recent Americas QA flags are present and up to date. No further action needed unless new projects/operators are announced or additional QA issues are flagged.
+- Marked Chile and LatAm/Caribbean as complete per Project Hunter reports.
+- Confirmed US QA/validation complete and acknowledged by US_ProjectHunter.

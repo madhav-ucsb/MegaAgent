@@ -1,0 +1,1 @@
+Confirmed: companies_master.txt is now fully aligned with the latest validated na_company_universe.txt, including all public company inclusions, private firm removals, and hyperscaler exclusions. Notified Bob that the file is ready for downstream use.

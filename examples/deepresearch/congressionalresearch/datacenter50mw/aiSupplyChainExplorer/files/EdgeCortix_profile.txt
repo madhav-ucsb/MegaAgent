@@ -1,0 +1,3 @@
+EdgeCortix | (private, IPO expected) | Japan | AI accelerators (total) | 10,000,000 | 2023 | Estimated revenue ~$10M; business is fabless design of energy-efficient AI accelerators (SAKURA series) for edge inference and generative AI. | https://growjo.com/company/Edgecortix; https://www.edgecortix.com/en/
+EdgeCortix | (private, IPO expected) | Japan | SAKURA AI Accelerator | [see note] | 2023 | SAKURA/SAKURA-II AI accelerators for edge AI/ML, generative AI, and embedded systems; all revenue is AI-related. | https://www.edgecortix.com/en/
+EdgeCortix | (private, IPO expected) | Japan | AI exposure (company-wide) | 100% | 2023 | All revenue is from AI chip design and deployment for edge inference and generative AI. | https://www.edgecortix.com/en/

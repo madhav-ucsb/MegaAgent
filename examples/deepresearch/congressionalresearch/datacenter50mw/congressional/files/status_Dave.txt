@@ -1,0 +1,1 @@
+1. For each representative I-Q, searched for their birth state and wrote results to house_i_q.txt. 2. Compared birth state to represented state for House I-Q. 3. Output those born outside their represented state to house_i_q.txt in the format: Name | District | Birth State. 4. Notified Bob when complete.

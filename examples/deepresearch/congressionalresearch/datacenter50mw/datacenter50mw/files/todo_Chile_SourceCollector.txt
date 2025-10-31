@@ -1,0 +1,1 @@
+1. Retry Huawei search after cooldown. 2. Continue monitoring for new/expanding 50MW+ projects in Chile. 3. QA and deduplication review. 4. Notify supervisor that initial entries for all major 50MW+ Chile projects (Scala, AWS, Microsoft, Ascenty/Digital Realty, Cirion) are written to chile_projects.txt and organizations.txt. 5. Await feedback or further instructions.

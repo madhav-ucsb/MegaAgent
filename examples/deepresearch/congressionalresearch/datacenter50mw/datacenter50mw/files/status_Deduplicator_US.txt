@@ -1,0 +1,1 @@
+Standing by to deduplicate project entries as new data is added to us_projects.txt. Ready to maintain dedupe_map.txt and collaborate with SourceCollector_US, Geocoder_US, and Verifier_US as needed.

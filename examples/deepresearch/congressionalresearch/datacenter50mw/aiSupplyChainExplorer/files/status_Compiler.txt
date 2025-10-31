@@ -1,0 +1,1 @@
+Merged asia_supply_edges.txt, europe_supply_edges.txt, and na_supply_edges.txt into supply_network.txt (edge list format). Merged asia_risk_matrix.txt, europe_risk_matrix.txt, and na_risk_matrix.txt into unified risk_matrix.txt. Updated narrative.txt with integration notes and confirmed no format or duplication issues. All integration steps complete and validated.

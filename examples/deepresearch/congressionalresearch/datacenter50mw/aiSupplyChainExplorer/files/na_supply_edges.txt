@@ -1,0 +1,7 @@
+Teledyne Technologies Incorporated | customer | Aerospace and defense companies (various) | strong | https://www.teledyne.com/en-us
+Teledyne Technologies Incorporated | customer | Semiconductor companies (various) | strong | https://www.teledynemems.com/company/company-overview/
+Teledyne Technologies Incorporated | customer | Electronics OEMs (various) | strong | https://www.teledynemems.com/company/company-overview/
+Teledyne Technologies Incorporated | customer | U.S. Department of Defense | strong | https://data.ark.ai/analysis/suppliers/teledyne-brown-engineering-inc.-supplier-profile-overview/
+Teledyne Technologies Incorporated | customer | NASA | strong | https://data.ark.ai/analysis/suppliers/teledyne-brown-engineering-inc.-supplier-profile-overview/
+Teledyne Technologies Incorporated | supplier | Electronic components manufacturers (various) | moderate | https://csimarket.com/stocks/suppliers_glance.php?code=TDY
+Teledyne Technologies Incorporated | supplier | Contract manufacturers (various) | moderate | https://csimarket.com/stocks/suppliers_glance.php?code=TDY

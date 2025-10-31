@@ -1,0 +1,1 @@
+Await address or project name queries from SourceCollector_SG for Singapore 50MW+ AI datacenter projects. Prepare to geocode and provide latitude/longitude as requested.
