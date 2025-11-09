@@ -1,0 +1,31 @@
+Jerry Nadler | House | NY | 12 | New York
+Grace Napolitano | House | CA | 31 | Texas
+Richard Neal | House | MA | 1 | Massachusetts
+Joe Neguse | House | CO | 2 | California
+Troy Nehls | House | TX | 22 | Wisconsin
+Dan Newhouse | House | WA | 4 | Washington
+Wiley Nickel | House | NC | 13 | California
+Donald Norcross | House | NJ | 1 | New Jersey
+Ralph Norman | House | SC | 5 | South Carolina
+Eleanor Holmes Norton | House | DC | AL | District of Columbia
+Zach Nunn | House | IA | 3 | Iowa
+Alexandria Ocasio-Cortez | House | NY | 14 | New York
+Andy Ogles | House | TN | 5 | Tennessee
+Ilhan Omar | House | MN | 5 | Somalia
+Burgess Owens | House | UT | 4 | Ohio
+Frank Pallone | House | NJ | 6 | New Jersey
+Gary Palmer | House | AL | 6 | Alabama
+Jimmy Panetta | House | CA | 19 | California
+Chris Pappas | House | NH | 1 | New Hampshire
+Bill Pascrell | House | NJ | 9 | New Jersey
+Donald Payne Jr. | House | NJ | 10 | New Jersey
+Nancy Pelosi | House | CA | 11 | Maryland
+Mary Peltola | House | AK | AL | Alaska
+Greg Pence | House | IN | 6 | Indiana
+Marie Gluesenkamp Perez | House | WA | 3 | Texas
+Scott Perry | House | PA | 10 | California
+Scott Peters | House | CA | 50 | Ohio
+Brittany Pettersen | House | CO | 7 | Colorado
+August Pfluger | House | TX | 11 | Texas
+Dean Phillips | House | MN | 3 | Minnesota
+Chellie Pingree | House | ME | 1 | Minnesota

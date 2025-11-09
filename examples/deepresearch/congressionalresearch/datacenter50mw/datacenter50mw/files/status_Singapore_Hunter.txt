@@ -1,0 +1,1 @@
+Reviewed QA flags and updated singapore_projects.txt: Equinix SG6 and ST Telemedia Loyang removed due to sub-50MW status. Added AirTrunk SGP2 (70MW) as confirmed 50MW+ project. Updated QA flags for remaining missing fields. Searched for and filled additional fields for Digital Loyang II (SIN12) and Meta Singapore Data Center where possible.

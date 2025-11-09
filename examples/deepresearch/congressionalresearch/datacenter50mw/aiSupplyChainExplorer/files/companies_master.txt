@@ -1,0 +1,98 @@
+ASML Holding | ASML | Netherlands | AI chip equipment supplier | https://www.statista.com/statistics/1375401/leading-europe-semiconductor-companies-by-market-cap/, https://www.asml.com
+Arm Holdings | ARM | United Kingdom | AI chip IP designer | https://www.statista.com/statistics/1375401/leading-europe-semiconductor-companies-by-market-cap/
+NXP Semiconductors | NXPI | Netherlands | AI chip supplier | https://www.statista.com/statistics/1375401/leading-europe-semiconductor-companies-by-market-cap/
+Infineon Technologies | IFX | Germany | AI chip & memory supplier | https://www.statista.com/statistics/1375401/leading-europe-semiconductor-companies-by-market-cap/, https://www.mordorintelligence.com/industry-reports/europe-dynamic-random-access-memory-market/companies
+STMicroelectronics | STM | Switzerland/Italy | AI chip supplier | https://www.statista.com/statistics/1375401/leading-europe-semiconductor-companies-by-market-cap/
+ams OSRAM | AMS | Austria | AI sensor & chip supplier | https://www.mordorintelligence.com/industry-reports/europe-semiconductor-device-market/companies
+Melexis | MELE | Belgium | AI sensor & chip supplier | https://www.mordorintelligence.com/industry-reports/europe-semiconductor-device-market/companies
+X-FAB Silicon Foundries | XFAB | Germany | AI chip foundry | https://www.mordorintelligence.com/industry-reports/europe-semiconductor-device-market/companies
+Ericsson | ERIC | Sweden | Networking equipment | https://www.revenue.land/invest-artificial-intelligence-europe
+Nokia | NOKIA | Finland | Networking equipment | https://www.revenue.land/invest-artificial-intelligence-europe
+OVH Groupe | OVH | France | AI server & cloud integrator | https://cryptorank.io/news/feed/b17a2-europe-data-center-infrastructure-ai-stocks
+Legrand | LR | France | Data center infrastructure | https://cryptorank.io/news/feed/b17a2-europe-data-center-infrastructure-ai-stocks
+Schneider Electric | SU | France | Data center infrastructure | https://cryptorank.io/news/feed/b17a2-europe-data-center-infrastructure-ai-stocks
+Siemens AG | SIE | Germany | Data center & server integrator | https://www.revenue.land/invest-artificial-intelligence-europe
+ABB Ltd | ABBN | Switzerland | Data center & server integrator | https://www.revenue.land/invest-artificial-intelligence-europe
+Prysmian Group | PRY | Italy | Data center cabling & infrastructure | https://cryptorank.io/news/feed/b17a2-europe-data-center-infrastructure-ai-stocks
+Orange S.A. | ORA | France | Data center & networking integrator | https://cryptorank.io/news/feed/b17a2-europe-data-center-infrastructure-ai-stocks
+Soitec | SOI | France | Semiconductor materials | https://www.statista.com/statistics/1375401/leading-europe-semiconductor-companies-by-market-cap/, https://www.soitec.com/en/investors
+BE Semiconductor Industries | BESI | Netherlands | Semiconductor assembly equipment | https://www.statista.com/statistics/1375401/leading-europe-semiconductor-companies-by-market-cap/, https://www.besi.com/investor-relations
+Elmos Semiconductor | ELG | Germany | Automotive/AI chips | https://www.mordorintelligence.com/industry-reports/europe-semiconductor-device-market/companies, https://www.elmos.com/english/investor-relations/
+Sequans Communications | SQNS | France | IoT/AI connectivity chips | https://www.sequans.com/investors/, https://www.mordorintelligence.com/industry-reports/europe-semiconductor-device-market/companies
+Atos SE | ATO | France | HPC integrator/supercomputing vendor | https://atos.net/en/2024/press-release_2024_11_25/atos-receives-non-binding-offer-from-the-french-state-to-acquire-its-advanced-computing-activities-for-an-enterprise-value-of-e500-million-and-up-to-e625-million-including-earn-outs, https://blogs.nvidia.com/blog/atos-ai-hpc-xh3000/, https://thequantuminsider.com/2024/11/26/france-bids-e625-million-for-atoss-computing-unit-including-quantum-tech/
+Samsung Electronics | 005930.KS | South Korea | AI chips, memory | https://aimagazine.com/top10/top-10-ai-companies-in-apac; https://www.mordorintelligence.com/industry-reports/asia-pacific-dynamic-random-access-memory-market/companies
+SK Hynix | 000660.KS | South Korea | AI memory (DRAM, HBM) | https://www.mordorintelligence.com/industry-reports/asia-pacific-dynamic-random-access-memory-market/companies; https://en.wikipedia.org/wiki/SK_Hynix
+TSMC (Taiwan Semiconductor Manufacturing Co.) | 2330.TW | Taiwan | AI chip foundry | https://research.aimultiple.com/ai-chip-makers/; https://goldenowl.asia/blog/ai-chip-companies
+Nanya Technology | 2408.TW | Taiwan | AI memory (DRAM) | https://www.mordorintelligence.com/industry-reports/asia-pacific-dynamic-random-access-memory-market/companies
+Winbond Electronics | 2344.TW | Taiwan | AI memory (DRAM, specialty) | https://www.mordorintelligence.com/industry-reports/asia-pacific-dynamic-random-access-memory-market/companies
+Powerchip Technology | 5346.TWO | Taiwan | AI memory (DRAM, foundry) | https://www.mordorintelligence.com/industry-reports/asia-pacific-dynamic-random-access-memory-market/companies
+Lenovo Group | 0992.HK | Hong Kong/China | AI servers, integrator | https://www.marketsandmarkets.com/ResearchInsight/ai-server-companies.asp
+Huawei Technologies | 002502.SZ | China | AI servers, networking | https://www.marketsandmarkets.com/ResearchInsight/ai-server-companies.asp; https://en.wikipedia.org/wiki/List_of_Networking_hardware_vendors
+Inspur Group | 000977.SZ | China | AI servers | https://www.marketsandmarkets.com/ResearchInsight/ai-server-companies.asp
+Quanta Computer | 2382.TW | Taiwan | AI servers | https://www.marketsandmarkets.com/ResearchInsight/ai-server-companies.asp
+Foxconn (Hon Hai Precision) | 2317.TW | Taiwan | AI servers, integrator | https://emergingtrajectories.com/a/pub/public_tech_companies_in_ai_you_havent_heard_of
+Accton Technology | 2345.TW | Taiwan | AI networking (switches, interconnects) | https://en.wikipedia.org/wiki/Accton_Technology_Corporation
+TP-Link Technologies | 002690.SZ | China | AI networking (routers, switches) | https://www.inven.ai/company-lists/top-24-networking-hardware-companies
+GDS Holdings | GDS | China | AI data centers, integrator | https://datacentremagazine.com/articles/top-10-asia-pacific-data-centre-companies
+Fujitsu Limited | 6702.T | Japan | AI servers, memory, networking | https://www.rankred.com/japanese-semiconductor-companies/; https://www.tradingview.com/markets/stocks-japan/sectorandindustry-sector/electronic-technology/
+Kaga Electronics | 8154.T | Japan | AI hardware distribution, components | https://www.tradingview.com/markets/stocks-japan/sectorandindustry-sector/electronic-technology/
+Toshiba Tec Corp | 6588.T | Japan | AI servers, storage, networking | https://www.tradingview.com/markets/stocks-japan/sectorandindustry-sector/electronic-technology/
+Mitsui High-tec | 6966.T | Japan | AI chip packaging, components | https://www.tradingview.com/markets/stocks-japan/sectorandindustry-sector/electronic-technology/
+Renesas Electronics | 6723.T | Japan | AI chips, microcontrollers | https://www.renesas.com/en/document/rep/financial-report-2024; https://www.datainsightsmarket.com/companies/6723.T
+Kioxia Holdings | 6682.T | Japan | AI memory (NAND, HBM, SSD) | https://www.kioxia-holdings.com/en-jp/about/glance.html; https://www.ainvest.com/news/kioxia-dominant-position-ai-driven-data-infrastructure-buy-signal-2025-2505/
+EdgeCortix | (private, IPO expected) | Japan | AI accelerators | https://www.edgecortix.com/en/; https://www.edgeir.com/edgecortix-introduces-sakura-ii-edge-ai-accelerator-for-genai-applications-20240528
+Rapidus Corporation | (private, IPO expected) | Japan | Advanced foundry (2nm, AI) | https://www.rapidus.inc/en/; https://www.theregister.com/2024/04/24/rapidus_foundry_strategy/
+NEC Corporation | 6701.T | Japan | AI servers, networking | https://www.nec.com/en/global/ir/pdf/annual/2024/ar2024-e.pdf; https://www.morningstar.com/stocks/xtks/6701/quote
+Oki Electric Industry | 6703.T | Japan | Networking, servers | https://disfold.com/japan/industry/communication-equipment/companies/; https://www.tradingview.com/symbols/TSE-6703/
+Allied Telesis Holdings | 6835.T | Japan | Networking (switches, routers) | https://disfold.com/japan/industry/communication-equipment/companies/; https://www.alliedtelesis.com/about-us/investor-relations
+Anritsu Corporation | 6754.T | Japan | Networking test, communications | https://disfold.com/japan/industry/communication-equipment/companies/; https://www.anritsu.com/en/about-anritsu/investor-relations
+SoftBank Group | 9984.T | Japan | AI infrastructure, networking, hyperscaler | https://itbusinesstoday.com/tech/ai/top-10-ai-companies-in-japan-revolutionizing-global-technology-in-2025/; https://www.softbank.jp/en/corp/ir/
+E2E Networks | E2E | India | AI cloud servers, data center | https://rupeezy.in/blog/best-data-center-stocks-in-india
+Tata Elxsi | 500408.BSE | India | AI hardware design, integration | https://groww.in/blog/best-artificial-intelligence-stocks-in-india
+SPEL Semiconductor | 517166.BSE | India | Chip packaging, OSAT | https://www.tickertape.in/stocks/collections/semiconductor-stocks
+MosChip Technologies | 532407.BSE | India | AI chips, SoC, design | https://www.tickertape.in/stocks/collections/semiconductor-stocks
+HCL Technologies | HCLTECH.NSE | India | AI servers, integration, hyperscaler | https://groww.in/blog/best-artificial-intelligence-stocks-in-india
+VITROX Corporation | 0097.KL | Malaysia | AI vision, test, hardware | https://www.isaham.my/sector/artificial-intelligence
+INARI Amertron | 0166.KL | Malaysia | OSAT, AI chip packaging | https://www.kenanga.com.my/wp-content/uploads/2024/09/Technology-240919-SU-4QFY24-Strategy-Kenanga.pdf
+PIE Industrial | 7095.KL | Malaysia | AI server, data center hardware | https://www.kenanga.com.my/wp-content/uploads/2024/09/Technology-240919-SU-4QFY24-Strategy-Kenanga.pdf
+AEM Holdings | AWX.SI | Singapore | AI chip test, hardware | https://thesmartinvestor.com.sg/4-compelling-singapore-stocks-that-could-ride-the-ai-wave-to-greater-prosperity/
+UMS Holdings | 558.SI | Singapore | AI chip equipment, hardware | https://www.moomoo.com/community/feed/singapore-tech-stock-market-dynamics-and-outlook-amid-global-semiconductor-113525767733254
+Venture Corporation | V03.SI | Singapore | AI hardware, integration | https://www.moomoo.com/community/feed/singapore-tech-stock-market-dynamics-and-outlook-amid-global-semiconductor-113525767733254
+Frencken Group | E28.SI | Singapore | AI hardware, integration | https://www.moomoo.com/community/feed/singapore-tech-stock-market-dynamics-and-outlook-amid-global-semiconductor-113525767733254
+Chaintech Technology | 2425.TW | Taiwan | AI memory, motherboards | https://en.wikipedia.org/wiki/Chaintech
+Realtek Semiconductor | 2379.TW | Taiwan | AI networking chips | https://www.f6s.com/companies/hardware/taiwan/co
+Delta Electronics | 2308.TW | Taiwan | AI power, networking, servers | https://www.gemway.com/en/news/2024-05-26-taiwan-hong-kong
+Wistron Corporation | 3231.TW | Taiwan | AI servers, integration | https://www.gemway.com/en/news/2024-05-26-taiwan-hong-kong
+Advantech Co. | 2395.TW | Taiwan | AI edge servers, networking | https://www.gemway.com/en/news/2024-05-26-taiwan-hong-kong
+ASE Technology Holding | 3711.TW | Taiwan | OSAT, AI chip packaging | https://www.gemway.com/en/news/2024-05-26-taiwan-hong-kong
+King Yuan Electronics | 2449.TW | Taiwan | OSAT, AI chip test | https://www.gemway.com/en/news/2024-05-26-taiwan-hong-kong
+Neuchips | (private, IPO expected) | Taiwan | AI ASIC, accelerators | https://www.neuchips.ai
+# Note: Indian and Southeast Asian coverage expanded and validated. File complete and ready for integration. | note: file complete and validated for all major regions and segments.
+NVIDIA Corporation | NVDA | North America | AI chips, servers, networking | https://research.aimultiple.com/ai-chip-makers/, https://builtin.com/artificial-intelligence/publicly-traded-ai-companies, https://iot-analytics.com/leading-generative-ai-companies/
+Advanced Micro Devices, Inc. | AMD | North America | AI chips | https://www.techtarget.com/searchdatacenter/tip/Top-AI-hardware-companies, https://iot-analytics.com/leading-generative-ai-companies/
+Intel Corporation | INTC | North America | AI chips, servers | https://www.techtarget.com/searchdatacenter/tip/Top-AI-hardware-companies, https://builtin.com/artificial-intelligence/publicly-traded-ai-companies
+Micron Technology, Inc. | MU | North America | AI memory | https://www.marketsandmarkets.com/ResearchInsight/ai-infrastructure-market.asp, https://www.bioenabletech.com/news/why-this-memory-stock-may-soar-42-in-ai-boom-by-2024
+Super Micro Computer, Inc. | SMCI | North America | AI servers | https://en.wikipedia.org/wiki/Supermicro, https://www.crn.com/news/data-center/2024/the-25-hottest-ai-companies-for-data-center-and-edge-the-2024-crn-ai-100
+Dell Technologies Inc. | DELL | North America | AI servers, storage, networking | https://www.marketsandmarkets.com/ResearchInsight/ai-server-companies.asp, https://aisuperior.com/ai-data-storage-companies/
+Hewlett Packard Enterprise Company | HPE | North America | AI servers, networking | https://www.marketsandmarkets.com/ResearchInsight/ai-server-companies.asp, https://www.crn.com/news/ai/2025/the-25-hottest-ai-companies-for-data-center-and-edge-the-2025-crn-ai-100
+Cisco Systems, Inc. | CSCO | North America | AI networking | https://www.marketsandmarkets.com/ResearchInsight/ai-in-networks-companies.asp, https://www.crn.com/news/data-center/2024/the-25-hottest-ai-companies-for-data-center-and-edge-the-2024-crn-ai-100
+Arista Networks, Inc. | ANET | North America | AI networking | https://www.marketsandmarkets.com/ResearchInsight/ai-in-networks-companies.asp, https://aglinfotech.com/networking-companies-continue-to-capitalize-on-ai-surge/
+Juniper Networks, Inc. | JNPR | North America | AI networking | https://www.marketsandmarkets.com/ResearchInsight/ai-in-networks-companies.asp, https://www.cheddarflow.com/blog/the-ultimate-guide-to-ai-infrastructure-stocks-for-investors/
+Ciena Corporation | CIEN | North America | AI networking | https://www.marketsandmarkets.com/ResearchInsight/ai-in-networks-companies.asp, https://www.cheddarflow.com/blog/the-ultimate-guide-to-ai-infrastructure-stocks-for-investors/
+Extreme Networks, Inc. | EXTR | North America | AI networking | https://www.marketsandmarkets.com/ResearchInsight/ai-in-networks-companies.asp, https://www.crn.com/news/ai/2025/the-25-hottest-ai-companies-for-data-center-and-edge-the-2025-crn-ai-100
+Broadcom Inc. | AVGO | North America | AI chips, networking | https://www.synovus.com/personal/resource-center/monthly-trust-newsletters/2024/april/top-players-in-ai-chip-market, https://tradingmethods.altervista.org/networking-companies-ai-growth-opportunities/
+Marvell Technology, Inc. | MRVL | North America | AI chips, networking | https://www.synovus.com/personal/resource-center/monthly-trust-newsletters/2024/april/top-players-in-ai-chip-market, https://tradingmethods.altervista.org/networking-companies-ai-growth-opportunities/
+Fortinet, Inc. | FTNT | North America | AI networking | https://www.marketsandmarkets.com/ResearchInsight/ai-in-networks-companies.asp
+Palo Alto Networks, Inc. | PANW | North America | AI networking | https://www.marketsandmarkets.com/ResearchInsight/ai-in-networks-companies.asp
+NETSCOUT Systems, Inc. | NTCT | North America | AI networking | https://www.marketsandmarkets.com/ResearchInsight/ai-in-networks-companies.asp
+Lattice Semiconductor Corporation | LSCC | North America | AI FPGAs, edge AI | https://www.latticesemi.com, https://www.ainvest.com/news/lattice-semiconductor-pioneering-edge-ai-infrastructure-rapidly-expanding-market-2509/
+Microchip Technology Inc. | MCHP | North America | AI microcontrollers, FPGAs | https://ir.microchip.com, https://en.wikipedia.org/wiki/Microchip_Technology
+ON Semiconductor Corporation | ON | North America | AI sensors, edge chips | https://www.onsemi.com/company/about-onsemi/company-overview, https://fortune.com/company/on-semiconductor/
+Analog Devices, Inc. | ADI | North America | AI signal processing, edge | https://www.analog.com/en/who-we-are.html, https://en.wikipedia.org/wiki/Analog_Devices
+Texas Instruments Incorporated | TXN | North America | AI analog, edge | https://www.ti.com/technologies/edge-ai.html, https://www.statista.com/statistics/972605/texas-instruments-revenue-by-segment/
+Synopsys, Inc. | SNPS | North America | EDA/IP for AI chips | https://www.synopsys.com/ai.html, https://futurumgroup.com/insights/synopsys-hits-record-q3-2024-revenue-on-high-semiconductor-ai-demand/
+Cadence Design Systems, Inc. | CDNS | North America | EDA/IP for AI chips | https://www.manufacturingdive.com/news/cadence-q4-2024-earnings-grow-chipmakers-adopt-ai-software-intel-nvidia/740577/, https://www.ainvest.com/news/cadence-design-systems-pioneering-ai-driven-semiconductor-innovation-shifting-global-landscape-2507/
+Keysight Technologies, Inc. | KEYS | North America | AI chip/test equipment | https://www.ainvest.com/news/keysight-technologies-strategic-play-ai-driven-infrastructure-revolution-2508/, https://www.monexa.ai/blog/keysight-technologies-keys-ai-data-centers-and-pho-KEYS-2025-03-25
+Teradyne, Inc. | TER | North America | AI chip/test equipment | https://www.teradyne.com/application-pages/ai/, https://www.ainvest.com/news/teradyne-strategic-bet-ai-driven-semiconductor-testing-pays-long-term-growth-story-2506/
+Teledyne Technologies Incorporated | TDY | North America | AI chip/test equipment, sensors | https://www.teledyne.com/en-us/investors/Documents/2024%20Teledyne%20Annual%20Report.pdf, https://en.wikipedia.org/wiki/Teledyne_Technologies
+# Note: Forward Networks and Anuta Networks are private companies and have been removed from this list. Hyperscalers (Google, Amazon, Microsoft) are intentionally excluded as they are not primarily suppliers/integrators to third parties but are major internal consumers and designers of AI hardware. See na_company_universe_review.txt for validation and rationale.

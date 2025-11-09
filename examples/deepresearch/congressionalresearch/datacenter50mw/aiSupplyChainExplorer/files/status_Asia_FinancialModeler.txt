@@ -1,0 +1,1 @@
+Scenario modeling for Lenovo Group and Huawei Technologies (baseline, export ban, +20% energy price, 2024-2026) written to asia_scenarios.txt with sources and assumptions. All required Asian companies in companies_master.txt now modeled. Ready for review and reconciliation.

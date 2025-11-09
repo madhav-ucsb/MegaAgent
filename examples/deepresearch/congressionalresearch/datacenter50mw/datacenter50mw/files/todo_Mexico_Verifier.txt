@@ -1,0 +1,1 @@
+1. Notify Mexico_ProjectHunter that QA for all projects in mexico_projects.txt is complete, with all issues flagged in qa_flags.txt and recommendations included. 2. Await further instructions or feedback.

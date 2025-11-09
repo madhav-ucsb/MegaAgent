@@ -1,0 +1,1 @@
+Standing by to begin deduplication as new data is added to brazil_projects.txt. Ready to maintain dedupe_map.txt and coordinate with collaborators.

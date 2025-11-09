@@ -1,0 +1,1 @@
+Compiled and verified a comprehensive list of all current U.S. House and Senate members (last names N-Z), including chamber, state, and district, and wrote it to congress_list.txt. Confirmed file is populated and notified Carol.

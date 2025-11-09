@@ -1,0 +1,1 @@
+Geocoded all site addresses in china_projects_raw.txt, appended latitude and longitude (marked approximate where necessary), and wrote results to china_projects_geocoded.txt. Ready for deduplication and QA. Notified China_Hunter as requested.

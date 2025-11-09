@@ -1,0 +1,1 @@
+Scenario modeling for STMicroelectronics, ams OSRAM, Melexis, and X-FAB (2024–2026, baseline, export ban, +20% energy price) completed and output to europe_scenarios.txt, using latest reported/consensus revenue, margin, risk matrix, and cited sources. All figures reconciled and formatted as specified. TODO list cleared.

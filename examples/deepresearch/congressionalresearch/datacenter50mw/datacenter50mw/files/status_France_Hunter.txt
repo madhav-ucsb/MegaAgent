@@ -1,0 +1,1 @@
+All major 50MW+ AI datacenter projects in France have been identified and documented in france_projects.txt. No further projects found after additional regional/operator/utility searches. Awaiting feedback from EMEA_Admin or further instructions.

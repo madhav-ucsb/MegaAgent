@@ -1,0 +1,3 @@
+1. Notified Geocoder_KR to confirm geocoding for new Incheon projects and all entries in southkorea_projects.txt.
+2. Notified Deduplicator_KR to confirm deduplication review for new Incheon projects and update dedupe_map.txt.
+3. Notified APAC_Admin that QA for new Incheon projects is complete and all issues flagged in qa_flags.txt; will aggregate and review for coverage gaps after geocoding and deduplication are confirmed.

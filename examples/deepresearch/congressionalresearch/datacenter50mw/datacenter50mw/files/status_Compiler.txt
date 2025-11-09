@@ -1,0 +1,1 @@
+Re-reviewed project_universe_apac.txt, projects_master.txt, dedupe_map.txt, qa_flags.txt, and organizations.txt. Confirmed all recent APAC changes (including Singapore) are present and schema-compliant in the global master. No discrepancies or missing merges found.

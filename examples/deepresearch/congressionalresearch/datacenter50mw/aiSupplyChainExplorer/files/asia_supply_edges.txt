@@ -1,0 +1,9 @@
+Mitsui High-tec | supplier | JFE Steel | strong | https://www.mitsui-high-tec.com/en/corporate/governance/pdf/sustainability_report.pdf; https://en.wikipedia.org/wiki/Mitsui_High-tec
+Mitsui High-tec | supplier | POSCO | strong | https://www.mitsui-high-tec.com/en/corporate/governance/pdf/sustainability_report.pdf; https://en.wikipedia.org/wiki/Mitsui_High-tec
+Mitsui High-tec | supplier | Hitachi Metals | strong | https://www.mitsui-high-tec.com/en/corporate/governance/pdf/sustainability_report.pdf; https://en.wikipedia.org/wiki/Mitsui_High-tec
+Mitsui High-tec | supplier | Sumitomo Electric Industries | strong | https://www.mitsui-high-tec.com/en/corporate/governance/pdf/sustainability_report.pdf; https://en.wikipedia.org/wiki/Mitsui_High-tec
+Mitsui High-tec | supplier | TDK Corporation | moderate | https://www.mitsui-high-tec.com/en/corporate/governance/pdf/sustainability_report.pdf; https://en.wikipedia.org/wiki/Mitsui_High-tec
+Mitsui High-tec | supplier | copper, silicon, and specialty chemical suppliers | moderate | https://www.mitsui-high-tec.com/en/corporate/governance/pdf/sustainability_report.pdf; https://www.coppercouncil.org/wp-content/uploads/2024/05/11-Saito.pdf
+Mitsui High-tec | customer | global semiconductor manufacturers | strong | https://www.mitsui-high-tec.com/en/corporate/governance/pdf/sustainability_report.pdf; https://en.wikipedia.org/wiki/Mitsui_High-tec
+Mitsui High-tec | customer | global automotive OEMs (EV, hybrid) | strong | https://www.mitsui-high-tec.com/en/corporate/governance/pdf/sustainability_report.pdf; https://en.wikipedia.org/wiki/Mitsui_High-tec
+Mitsui High-tec | customer | electronics manufacturers | moderate | https://www.mitsui-high-tec.com/en/corporate/governance/pdf/sustainability_report.pdf; https://en.wikipedia.org/wiki/Mitsui_High-tec

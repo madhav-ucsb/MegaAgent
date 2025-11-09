@@ -1,0 +1,1 @@
+Compiler has confirmed that companies_master.txt is fully synchronized and now includes the latest validated Asia company universe, covering all major public AI hardware suppliers and integrators across North America, Europe, and Asia. Ready for downstream profiling and mapping. No further review needed unless requested.

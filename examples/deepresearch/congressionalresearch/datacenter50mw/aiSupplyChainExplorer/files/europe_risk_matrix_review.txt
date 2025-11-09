@@ -1,0 +1,48 @@
+# Europe Risk Matrix Review (2024)
+
+## Companies Reviewed:
+- ASML Holding
+- Arm Holdings
+- NXP Semiconductors
+- Infineon Technologies
+- STMicroelectronics
+
+## Validation Checklist
+- [x] All companies present in europe_company_universe.txt are included in europe_risk_matrix.txt for the above set.
+- [x] Export control risk and energy cost exposure fields are present and use consistent qualitative scales (High, Medium-High, Medium, Low, etc.).
+- [x] Notes and sources fields are present and cite at least two credible sources per entry.
+- [x] All risk descriptions are specific, reference current regulatory and energy market context, and are consistent with company disclosures and third-party analysis.
+- [x] No missing information for the companies listed above.
+- [x] No unit/currency/date inconsistencies (all qualitative risk, not numeric exposure).
+
+## Discrepancies/Flags
+- [ ] The following companies from europe_company_universe.txt are NOT yet present in europe_risk_matrix.txt and must be added for full coverage:
+  - ams OSRAM (AMS)
+  - Melexis (MELE)
+  - X-FAB Silicon Foundries (XFAB)
+  - Ericsson (ERIC)
+  - Nokia (NOKIA)
+  - OVH Groupe (OVH)
+  - Legrand (LR)
+  - Schneider Electric (SU)
+  - Siemens AG (SIE)
+  - ABB Ltd (ABBN)
+  - Prysmian Group (PRY)
+  - Orange S.A. (ORA)
+  - Soitec (SOI)
+  - BE Semiconductor Industries (BESI)
+  - Elmos Semiconductor (ELG)
+  - Sequans Communications (SQNS)
+  - Atos SE (ATO)
+
+- [ ] Recommend prompt addition of above companies with full risk assessment and sources for export control and energy cost exposure.
+
+## Conclusion
+- Current entries are complete and validated for format, content, and sourcing.
+- Full matrix coverage requires addition of the above companies.
+
+# Sources
+- See individual line sources in europe_risk_matrix.txt
+
+# Reviewer: Europe_Verifier
+# Date: 2024-07-25

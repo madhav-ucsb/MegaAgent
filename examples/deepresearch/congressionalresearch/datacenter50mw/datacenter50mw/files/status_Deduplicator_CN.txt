@@ -1,0 +1,1 @@
+Deduplication of china_projects_geocoded.txt complete. Canonical project names maintained and mapped in dedupe_map.txt. Deduplicated project list written to china_projects_deduped.txt. Ready for QA and finalization by China_Hunter.

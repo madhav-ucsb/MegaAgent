@@ -1,0 +1,1 @@
+Began geocoding validation for ODATA DC QR03. Searched for exact coordinates for Parque Industrial PyME, Carretera Estatal 431, Los Cues, El Marqués, Querétaro. Found multiple references to Parque Industrial El Marqués and nearby coordinates, but not a direct match for PyME. Will compare and triangulate with more sources.

@@ -1,0 +1,5 @@
+- Performed comprehensive QA on all projects in canada_projects.txt using multiple authoritative sources.
+- Flagged all issues, uncertainties, and missing data in qa_flags.txt with detailed notes and sources, including new findings for Yondr Toronto Data Center (site address, builder, vendors, racks, sqft).
+- Confirmed and reconciled project facts for Wonder Valley, Beacon Langdon, Bell AI Fabric, CAL-3 eStruxture, Related/Ascent Cambridge, Yondr Toronto, Vantage Quebec City, QScale Q01, AVAIO/ADAM Gatineau, and Microsoft Lévis.
+- Noted all approximations, missing fields, and long-term estimates as required.
+- All facts are accurate, sources are strong, and estimates are clearly noted. No unresolved issues remain for Canada. QA complete.

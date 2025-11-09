@@ -1,0 +1,1 @@
+QA on asia_scenarios.txt complete. Only GDS Holdings scenario lines present; all other assigned companies missing. QA note appended to file. Notified Asia_FinancialModeler and Bob. Awaiting further input or file completion.

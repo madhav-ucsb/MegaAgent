@@ -1,0 +1,1 @@
+Collected and recorded birth state data for all Representatives and Senators N-Z in bio_n_z.txt. Compared birth state to represented state for each. Added all N-Z congresspeople born outside their represented state to ans.txt in the required format. ans.txt is now complete and up to date.

@@ -1,0 +1,8 @@
+1. Await SourceCollector_AU's completion of initial Perplexity searches and delivery of australia_projects_raw.txt after API rate limit resets.
+2. If search backlog grows or project count is high, recruit additional SourceCollector agents to parallelize effort.
+3. Review findings for coverage and instruct Geocoder_AU to geocode site addresses.
+4. Instruct Deduplicator_AU to deduplicate and canonicalize project entries.
+5. Instruct Verifier_AU to QA and reconcile facts, flagging any issues.
+6. Aggregate and write all validated findings to australia_projects.txt in the specified schema.
+7. Notify APAC_Admin of any further coverage gaps or resource needs.
+8. Track progress and update TODO list accordingly.

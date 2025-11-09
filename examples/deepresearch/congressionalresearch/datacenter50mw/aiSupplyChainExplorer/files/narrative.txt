@@ -1,0 +1,26 @@
+Executive Summary:
+This deliverable provides a comprehensive scenario analysis of the global AI-hardware ecosystem, aggregating financial projections for leading publicly traded suppliers and integrators of AI chips, servers, memory, and networking equipment across North America, Asia, and Europe. The scenario models quantify the impact of baseline growth, export bans, and a 20% increase in energy prices on company revenues and margins over a three-year horizon (2024–2026/2027).
+
+Methodology:
+- Regional financial modelers compiled scenario projections for each company, referencing annual reports, earnings transcripts, and regulatory/market outlooks.
+- Three scenarios were modeled for each company: Baseline (expected growth), Export Ban (10% revenue impact and margin compression for exposed regions), and +20% Energy Price (margin impact based on energy cost sensitivity).
+- All figures are in USD; FX rates and conversion notes are included where relevant.
+- Scenario data was validated for consistency with reported segment totals and cross-checked with at least two sources per company when possible.
+
+Key Findings:
+- Baseline scenarios reflect robust AI-driven growth for data center, semiconductor, and networking firms, with margin expansion in most cases as scale and efficiency improve.
+- Export ban scenarios show significant revenue and margin risk for companies with high exposure to China/Asia or US/EU markets, though some adaptation is modeled over time.
+- A 20% energy price increase has a measurable but generally manageable impact on margins, with the effect varying by company and region depending on energy intensity and ability to pass through costs.
+- The scenario matrix enables comparative risk assessment and stress-testing of the AI-hardware supply chain under plausible regulatory and macroeconomic shocks.
+
+Integration Notes (Supply Network & Risk Matrix):
+- Regional supply edge lists (Asia, Europe, NA) were merged into supply_network.txt. No format conflicts; all entries standardized to: source_company | relationship | target_company | strength.
+- Regional risk matrices (Asia, Europe, NA) were merged into risk_matrix.txt. All entries retain original notes and sources; minor differences in risk language (e.g., "major" vs. "strong") were preserved for fidelity.
+- No duplicate or conflicting entries detected in merged files. All provenance and source links retained for traceability.
+
+Sources and Provenance:
+- All scenario, supply chain, and risk matrix lines include direct links to primary financial filings, earnings calls, and regulatory/market analysis.
+- Regional files were merged and validated for completeness and consistency.
+
+Next Steps:
+- Downstream analysis will integrate these scenario, supply chain, and risk outputs to inform strategic planning and risk mitigation for ecosystem participants.

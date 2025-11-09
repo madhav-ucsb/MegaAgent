@@ -1,0 +1,1 @@
+QA and validation for all 50MW+ US AI datacenter projects in us_projects.txt is complete. All issues flagged in qa_flags.txt. Notified Americas_Admin and received confirmation. Standing by for future updates or QA requests.

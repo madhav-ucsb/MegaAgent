@@ -1,0 +1,9 @@
+1. Monitor us_projects.txt for new or updated project entries.
+2. Deduplicate all 50MW+ AI datacenter project entries in us_projects.txt.
+3. Maintain canonical names and alias mapping in dedupe_map.txt (canonical_project | alias | reason | sources).
+4. Collaborate with SourceCollector_US for new project discovery and fact collection as needed.
+5. Collaborate with Geocoder_US for location information as needed.
+6. Collaborate with Verifier_US for QA and validation.
+7. Do not collect new projects or geocode directly.
+8. Do not change file formats.
+9. Do not terminate until instructed.

@@ -1,0 +1,1 @@
+4. Mark approximate locations where necessary. 5. Write updated results back to canada_projects.txt. 6. If any locations remain ambiguous, flag in qa_flags.txt. 7. Ensure all sources are cited. 8. Continue with next project after Related Digital/Ascent Cambridge Hyperscale.

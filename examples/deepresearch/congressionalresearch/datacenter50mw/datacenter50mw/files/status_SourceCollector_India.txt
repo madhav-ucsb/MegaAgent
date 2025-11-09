@@ -1,0 +1,1 @@
+1. Added new 50MW+ AI datacenter projects from STT GDC (Hyderabad, Kolkata), Web Werks-Iron Mountain (national expansion), and Princeton Digital Group (Mumbai, Chennai) to india_projects.txt. 2. Used targeted Perplexity searches to gather project details, locations, operators, and specs. 3. Captured sources for each entry.

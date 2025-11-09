@@ -1,0 +1,4 @@
+- Clarified geocoding status for all 50MW+ AI datacenter projects in the Netherlands.
+- Updated netherlands_projects.txt and qa_flags.txt accordingly.
+- Notified Netherlands_Hunter of completion and current status.
+- No further geocoding action required unless new data emerges.

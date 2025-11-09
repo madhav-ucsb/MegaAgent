@@ -1,0 +1,1 @@
+1. Review if any 50MW+ AI datacenter projects by AWS, Google, Oracle, Huawei, Tencent, Equinix, Omnia, Aligned, or other major operators are missing from brazil_projects.txt. 2. If so, flag coverage gap and recommend targeted search or outreach. 3. Summarize current coverage and gaps for Brazil. 4. Notify Brazil_ProjectHunter if further detail or targeted searches are needed.

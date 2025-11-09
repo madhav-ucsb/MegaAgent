@@ -1,0 +1,1 @@
+Completed and validated risk matrix entries for Texas Instruments, Synopsys, Cadence Design Systems, Keysight Technologies, Teradyne, and Teledyne Technologies in na_risk_matrix.txt, following required format and sourcing. All North American companies in the current TODO list are now covered.

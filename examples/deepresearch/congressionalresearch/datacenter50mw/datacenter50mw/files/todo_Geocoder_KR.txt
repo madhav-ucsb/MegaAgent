@@ -1,0 +1,1 @@
+1. Review and QA the updated geocoding for all six projects in southkorea_projects.txt, especially the two new Incheon projects. 2. If any collaborator flags issues, address them. 3. Continue monitoring for new South Korea 50MW+ AI datacenter projects or updates to existing ones. 4. Await further instructions or feedback from SourceCollector_KR, Deduplicator_KR, or Verifier_KR.

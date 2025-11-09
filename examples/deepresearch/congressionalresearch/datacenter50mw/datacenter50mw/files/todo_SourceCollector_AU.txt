@@ -1,0 +1,1 @@
+Continue targeted Perplexity searches for additional 50MW+ AI datacenter projects in Australia, including Western Australia, Queensland, and other regions/operators. Document all findings in australia_projects_raw.txt. Notify Australia_Hunter if search backlog grows or if additional resources are needed.

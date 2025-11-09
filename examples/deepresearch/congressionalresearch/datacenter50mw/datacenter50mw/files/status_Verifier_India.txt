@@ -1,0 +1,4 @@
+- QA and fact-checking for india_projects.txt completed. All required fields checked for completeness and accuracy.
+- Issues flagged in qa_flags.txt: builder/EPC missing, vendors partial (NVIDIA DGX-Ready, but no explicit vendor list), racks partial (high-density, but no count), sqft partial (phase 1: 196,000 sqft, total campus not specified).
+- All findings and sources documented in qa_flags.txt.
+- India_Hunter notified when QA is complete.

@@ -1,0 +1,1 @@
+Added Equinix SV12x xScale Data Center (San Jose, CA) to us_projects.txt with available details. Confirmed $15B JV for multiple 100MW+ xScale campuses in US. Identified Hampton, Georgia as next Equinix xScale target. Rate limited by Perplexity; will resume detailed research when available.

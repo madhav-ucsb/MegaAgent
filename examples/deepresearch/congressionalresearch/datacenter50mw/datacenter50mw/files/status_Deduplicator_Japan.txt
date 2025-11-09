@@ -1,0 +1,1 @@
+Read japan_projects.txt. Identified and merged duplicate entries: 'Hokkaido Tomakomai AI Data Center (SoftBank)' and 'SoftBank Tomakomai AI Data Center' are the same project. Canonical name selected, alias mapping recorded in dedupe_map.txt. Communicated deduplication completion to Verifier_Japan for QA and validation.

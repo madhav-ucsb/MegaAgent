@@ -1,0 +1,1 @@
+- Added and geocoded two major projects: Scala AI City (Eldorado do Sul, Rio Grande do Sul) and Rio AI City (Olympic Park, Rio de Janeiro) to brazil_projects.txt with accurate/approximate lat/long and sources.

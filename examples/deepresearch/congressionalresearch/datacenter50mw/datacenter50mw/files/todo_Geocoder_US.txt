@@ -1,0 +1,1 @@
+Continue geocoding remaining projects in us_projects.txt. For each, verify or add latitude and longitude fields (mark as approximate if needed). Notify SourceCollector_US when all are complete. Collaborate with Deduplicator_US for canonical names if needed.

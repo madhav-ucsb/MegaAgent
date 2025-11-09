@@ -1,0 +1,1 @@
+1. Notify APAC_Admin of actions taken: Equinix SG6 and ST Telemedia Loyang removed due to sub-50MW status; AirTrunk SGP2 added as 70MW project. 2. Confirm with SourceCollector_SG if any further Singapore 50MW+ projects have emerged. 3. Await any final feedback from APAC_Admin or SourceCollector_SG. 4. Clear TODO list once all steps are complete.
