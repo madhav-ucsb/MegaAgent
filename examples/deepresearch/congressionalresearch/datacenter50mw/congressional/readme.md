@@ -86,11 +86,12 @@ Note: Some helper files may have been regenerated multiple times as the agents r
 - **Auditability**: Per-agent logs (`logs/*.log`) and intermediate files in `files/` enable traceability of each finding.
 
 ## How to Reproduce
-1. In `examples/congressional/`, run:
+1. Import openai_key and perplexity_key in config.py
+2. In `examples/congressional/`, run:
    ```bash
    python main.py
    ```
-2. The run will:
+3. The run will:
    - Initialize agents and logs in `logs/`
    - Write intermediate and final results to `files/`
    - Produce `files/ans.txt` upon aggregation
